@@ -1,2 +1,2 @@
 # odin-recipes
-odin-recipes is the first project of the odin project foundation course
+The odin recipe is a recipe website built using only plain html, this project is the first project of the foundation course in the odin project
